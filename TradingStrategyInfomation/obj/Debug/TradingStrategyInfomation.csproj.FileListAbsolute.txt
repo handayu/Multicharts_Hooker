@@ -1,0 +1,104 @@
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe.config
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.pdb
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Form1.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.KLine.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.NetDrowControl.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.OrderInsertControl.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.TradeControl.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.TradingSystem.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Properties.Resources.resources
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.GenerateResource.Cache
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.exe
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.pdb
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csprojResolveAssemblyReference.cache
+D:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.StrategtySystem.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe.config
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.exe
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.pdb
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.pdb
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csprojResolveAssemblyReference.cache
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Form1.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.KLine.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.NetDrowControl.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.OrderInsertControl.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.RiskControl.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.StrategtySystem.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.TradeControl.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.TradingSystem.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Properties.Resources.resources
+G:\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.GenerateResource.Cache
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe.config
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.pdb
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csprojResolveAssemblyReference.cache
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Form1.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.NetDrowControl.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.OrderInsertControl.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.RiskControl.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.StrategtySystem.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.TradeControl.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.TradingSystem.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Properties.Resources.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.GenerateResource.Cache
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.exe
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.pdb
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.ConnectToMcControl.resources
+C:\Users\hanyu\Desktop\TradingStrategyInfomation\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.HelpForm.resources
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csprojResolveAssemblyReference.cache
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.ConnectToMcControl.resources
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Form1.resources
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Properties.Resources.resources
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.GenerateResource.Cache
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.exe
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.pdb
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe.config
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe
+C:\Users\hanyu\Desktop\模拟交易系统和微观行情软件\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.pdb
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.MainForm.ConnectToMcControl.resources
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Form1.resources
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.exe
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.pdb
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe.config
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.exe
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\TradingStrategyInfomation.pdb
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\StackExchange.Redis.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\StackExchange.Redis.xml
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Administrator\Desktop\TradingStrategyInfomation - 副本\TradingStrategyInfomation\obj\Debug\TradingStrategyInfomation.csproj.CopyComplete
